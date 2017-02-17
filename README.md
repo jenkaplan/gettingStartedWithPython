@@ -13,6 +13,9 @@ b = 3
 sum = a + b
 print(sum)
 ```
-##How To Use Python
+##Download Python
 
-1. Check if Python is installed on your computer
+
+Link to download Python: https://www.python.org/downloads/
+
+##
